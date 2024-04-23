@@ -349,6 +349,8 @@ sudo systemctl restart jenkins
 
    **Installing Prometheus:**
 
+   ![Prometheus](https://github.com/Rishiii7/Netflix-CICD/blob/main/Screenshots/Screenshot%202024-04-17%20at%201.06.39%E2%80%AFPM.png)
+
    First, create a dedicated Linux user for Prometheus and download Prometheus:
 
    ```bash
