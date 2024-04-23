@@ -658,4 +658,4 @@ That's it! You've successfully installed and set up Grafana to work with Prometh
     - Integrate Jenkins with Prometheus to monitor the CI/CD pipeline.
 
 
-credits :- ![youtube](https://www.youtube.com/watch?v=g8X5AoqCJHc)
+credits :- (https://www.youtube.com/watch?v=g8X5AoqCJHc)
