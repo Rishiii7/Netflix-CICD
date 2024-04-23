@@ -1,5 +1,7 @@
 # Netflix Application on Cloud using Jenkins 
 
+![Netflix](https://github.com/Rishiii7/Netflix-CICD/blob/main/Screenshots/Screenshot%202024-04-17%20at%201.07.02%E2%80%AFPM.png)
+
 ### **Phase 1: Initial Setup and Deployment**
 
 **Step 1: Launch EC2 (Ubuntu 22.04):**
